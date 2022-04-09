@@ -1,0 +1,9 @@
+﻿  test.c
+D:\c. 项目\gitee_2022\test_4_9\test_4_9\test.c(100,16): error C2057: 应输入常量表达式
+D:\c. 项目\gitee_2022\test_4_9\test_4_9\test.c(100,16): error C2466: 不能分配常量大小为 0 的数组
+D:\c. 项目\gitee_2022\test_4_9\test_4_9\test.c(100,17): error C2133: “arr”: 未知的大小
+D:\c. 项目\gitee_2022\test_4_9\test_4_9\test.c(102,19): warning C4018: “<”: 有符号/无符号不匹配
+D:\c. 项目\gitee_2022\test_4_9\test_4_9\test.c(104,15): warning C4476: "scanf": 格式说明符中的类型字段字符“.”未知
+D:\c. 项目\gitee_2022\test_4_9\test_4_9\test.c(104,26): warning C4474: scanf: 格式字符串中传递的参数太多
+D:\c. 项目\gitee_2022\test_4_9\test_4_9\test.c(104,26): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\c. 项目\gitee_2022\test_4_9\test_4_9\test.c(107,19): warning C4018: “<”: 有符号/无符号不匹配
