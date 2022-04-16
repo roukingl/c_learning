@@ -1,0 +1,4 @@
+﻿  game.c
+D:\Keilproject\新建文件夹\test._4_16\test._4_16\game.c(54,25): warning C4047: “函数”:“unsigned int”与“int *”的间接级别不同
+D:\Keilproject\新建文件夹\test._4_16\test._4_16\game.c(54,19): warning C4024: “srand”: 形参和实参 1 的类型不同
+  test._4_16.vcxproj -> D:\Keilproject\新建文件夹\test._4_16\x64\Debug\test._4_16.exe
