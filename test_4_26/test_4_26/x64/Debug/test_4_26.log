@@ -1,0 +1,4 @@
+﻿  test.c
+D:\c. 项目\gitee_2022\test_4_26\test_4_26\test.c(37,28): warning C4020: “my_strcmp”: 实参太多
+D:\c. 项目\gitee_2022\test_4_26\test_4_26\test.c(41,33): warning C4020: “my_strcmp”: 实参太多
+  test_4_26.vcxproj -> D:\c. 项目\gitee_2022\test_4_26\x64\Debug\test_4_26.exe
