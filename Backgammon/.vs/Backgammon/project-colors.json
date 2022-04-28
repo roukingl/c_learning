@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "958bd61e-0927-4301-97fd-86b28c808573": {
+      "ProjectGuid": "958bd61e-0927-4301-97fd-86b28c808573",
+      "DisplayName": "Backgammon",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
