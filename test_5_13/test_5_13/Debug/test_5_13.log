@@ -1,0 +1,3 @@
+﻿  test.c
+D:\C语言日常代码\gitee_2022\test_5_13\test_5_13\test.c(64,1): warning C4047: “初始化”:“int (__cdecl *(*)[4])(int,int)”与“int (__cdecl **)(int,int)”的间接级别不同
+  test_5_13.vcxproj -> D:\C语言日常代码\gitee_2022\test_5_13\Debug\test_5_13.exe
