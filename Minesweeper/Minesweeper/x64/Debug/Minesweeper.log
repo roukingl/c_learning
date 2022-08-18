@@ -1,2 +1,2 @@
 ﻿  game.c
-  Minesweeper.vcxproj -> D:\c. 项目\gitee_2022\Minesweeper\x64\Debug\Minesweeper.exe
+LINK : fatal error LNK1168: 无法打开 D:\project\gitee_2022\Minesweeper\x64\Debug\Minesweeper.exe 进行写入

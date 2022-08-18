@@ -172,7 +172,7 @@ void CheckBoard(char mine[ROWS][COLS], char show[ROWS][COLS], int row, int col)
 			if (mine[x][y] == '1')
 			{
 				printf("ƒ„±ª’®À¿¡À!\n");
-				DelayBoard(mine, x, y);
+				DelayBoard(mine, ROW, COL);
 				break;
 			}
 			else

@@ -25,7 +25,7 @@ void game()
 
 	//¥Ú”°
 	DelayBoard(show, ROW, COL);
-	DelayBoard(mine, ROW, COL);
+	//DelayBoard(mine, ROW, COL);
 
 	//≈≈≤È¿◊
 	CheckBoard(mine, show, ROW, COL);
